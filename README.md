@@ -13,3 +13,5 @@ others). The proposed model is prepared and tried utilizing the ISIC 2019 datase
 top_2_accuracy and top_3_accuracy are utilized in assessing the exhibition of the proposed technique where the acquired estimations of
 these measures are 77.70%, 92.02% and 98.93% separately. The exhibition of the proposed technique is contrasted and the current strategies
 where the order rate of the previous beat the presentation of the last strategies.
+
+## download the dataset from: https://challenge2019.isic-archive.com/data.html
